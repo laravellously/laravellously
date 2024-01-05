@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martins Michael</h1>
-<h3 align="center">A passionate fullatack developer from India</h3>
+<h3 align="center">Welcome to my Github repo. With 9+ years of experience in the development of enterprise applications and open-source software, I am confident that I can provide you with the best solutions for any of your development needs.
+
+In my repo, you will find a wide variety of projects that I have worked on, ranging from web development to mobile application development. I specialize in PHP and Laravel based development, as well as Node.js, React, and Angular. My portfolio includes numerous projects such as a web application for a major retailer, an online booking platform, and a virtual reality shopping experience, etc.
+
+My development process is focused on creating innovative, efficient, and secure solutions. I strive to write code that is easy to maintain and debug, and that is optimized for performance. I also make sure to stay up-to-date with the latest tools and technologies, so that I can provide my clients with the most modern solutions.
+
+I invite you to explore my Github repo to get a better understanding of the projects I have worked on and the solutions I can offer. If you have any questions or would like to discuss a project, please don’t hesitate to contact me. I look forward to working with you and creating something amazing together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laravellously&label=Profile%20views&color=0e75b6&style=flat" alt="laravellously" /> </p>
 
